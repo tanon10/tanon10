@@ -12,9 +12,9 @@ const sobreMi = {
          js: ["Node", "Express", "GraphQL"],
          php: ["Laravel", "Wordpress"],
       },
-      databases: ["Postgres", "MYSQL", "SQLServer", "Firebase", "MongoDB"],
+      databases: ["PostgreSQL", "MYSQL", "SQLServer", "Firebase", "MongoDB"],
       mobile: ["React Native"],
-      cmr: ["ARC XP"]
+      cms: ["ARC XP"]
    },
    ocupacion: ["Desarrollador FullStack en RPALATAM asignado al cliente El Universo."]
 };
